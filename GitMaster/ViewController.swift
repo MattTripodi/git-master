@@ -25,6 +25,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		
 		// This comment 
+		// The other comment 
 	}
 	
 	// WACKY
